@@ -4,8 +4,10 @@
 
 This is a versatile and user-friendly scientific calculator Android app built in Java. It offers a wide range of mathematical functions and operations, making it a valuable tool for students, professionals, and anyone in need of advanced calculations on their mobile device.
 
-![Screenshot_20230924_211118](https://github.com/SinghIsWriting/scientific_calculator/assets/122283853/75317dd4-b45e-429e-b633-f462da86633b)
-
+<p align="center">
+<img width="40%" height="50%" src="https://github.com/SinghIsWriting/scientific_calculator/assets/122283853/75317dd4-b45e-429e-b633-f462da86633b"/>
+</a>
+</p>
 
 
 ## Key Features
