@@ -37,7 +37,6 @@ git clone https://github.com/SinghIsWriting/scientific_calculator.git
 * Launch the app to access the scientific calculator.
 * Perform calculations using the on-screen buttons.
 * Explore the various mathematical functions and operations available.
-* Customize the app settings as needed.
 
 ## Contributing
 Contributions to this project are welcome! If you find a bug or have an idea for an improvement, please open an issue or submit a pull request.
