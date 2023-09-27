@@ -383,12 +383,13 @@ class MainActivity extends AppCompatActivity {
                     }
 
             }
+            specialFunction = null;
+            isSpecialFunction = false;
         }else if (sign != null){
                     value2 = primary.getText().toString();
                     num1 = Double.parseDouble(value1);
                     num2 = Double.parseDouble(value2);
                     primary.setText(null);
-
                     switch (sign){
                         default:
                             break;
@@ -413,6 +414,7 @@ class MainActivity extends AppCompatActivity {
                                 secondary.setText("Error !");
                             }
                     }
+                    sign = null;
                 }
                 else primary.setText("Error !");
             }
