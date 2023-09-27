@@ -41,4 +41,7 @@ git clone https://github.com/SinghIsWriting/scientific_calculator.git
 ## Contributing
 Contributions to this project are welcome! If you find a bug or have an idea for an improvement, please open an issue or submit a pull request.
 
+## License
+This project is licensed under the MIT License - see the [MIT License](LICENSE) file for details.
+
 Thank you for using the Scientific Calculator Android App!
